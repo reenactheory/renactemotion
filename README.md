@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **renactemotion/renactemotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>I am</h2>
+<h2>I am Jenna Kim 💜</h2>
