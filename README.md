@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>I am Jenna Kim 💜</h2>
+<h2>I am Jenna Kim </h2>
