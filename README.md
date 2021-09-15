@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Designer Jenna who wants to make design useful by seeing and learning a lot ✍️
+Hi! I'm Designer Jenna who wants to make design useful by seeing and learning a lot. ✍️
 
 
