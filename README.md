@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>I am Jenna Kim </h2>
+Designer Jenna who wants to make design useful by seeing and learning a lot ✍️
+
+
